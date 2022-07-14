@@ -4,5 +4,5 @@ module.exports = (router) => {
     router.post('/register', Users.createUser);
     router.post('/login', Users.loginUser);
 
-    console.log("test backend 2");
+    console.log("test backend 3");
 }
